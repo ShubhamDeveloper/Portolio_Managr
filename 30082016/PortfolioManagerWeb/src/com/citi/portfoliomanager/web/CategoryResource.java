@@ -25,7 +25,7 @@ public class CategoryResource {
 		} catch (NamingException ex) {
 			ex.printStackTrace();
 		}
-	}
+	} 
 	
 	@GET
 	@Produces("application/json")
